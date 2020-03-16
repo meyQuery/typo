@@ -4,4 +4,11 @@ html {
 
 body {
     min-height: 100%;
+    background-color: #f8f8f8;
+}
+
+body.rtl {
+    direction: rtl;
+    text-align: right;
+    font-family: Dana;
 }
