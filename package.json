@@ -1,0 +1,25 @@
+{
+  "name": "typo",
+  "version": "1.0.0",
+  "description": "Minimal Blog Template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadkarimi1991/typo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadkarimi1991/typo/issues"
+  },
+  "homepage": "https://github.com/ahmadkarimi1991/typo#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^4.0.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
